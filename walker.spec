@@ -1,13 +1,13 @@
 %global debug_package %{nil}
 
 Name:           walker
-Version:        2.6.2
+Version:        2.8.2
 Release:        1
 Source0:        https://github.com/abenz1267/walker/archive/v%{version}/%{name}-v%{version}.tar.gz
 Source1:        %{name}-%{version}-vendor.tar.gz
 Summary:        Multi-Purpose Launcher with a lot of features. Highly Customizable and fast
 URL:            https://github.com/abenz1267/walker
-License:        GPL
+License:        GPLv3
 Group:          Window Manager/Utils
 
 BuildRequires:  cargo
