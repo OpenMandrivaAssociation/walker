@@ -1,7 +1,7 @@
 %global debug_package %{nil}
 
 Name:           walker
-Version:        2.11.1
+Version:        2.11.3
 Release:        1
 Source0:        https://github.com/abenz1267/walker/archive/v%{version}/%{name}-v%{version}.tar.gz
 Source1:        %{name}-%{version}-vendor.tar.gz
